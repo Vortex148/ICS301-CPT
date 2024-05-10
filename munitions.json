@@ -1,0 +1,24 @@
+{
+  "cannon": {
+    "20mm":{
+      "capableAircraft" : {},
+      "shells": {}
+    },
+    "25mm":{
+      "capableAircraft" : {},
+      "shells": {}
+    },
+    "30mm":{
+      "capableAircraft" : {},
+      "shells": {}
+    }
+  },
+
+  "missile": {
+
+  },
+
+  "countermeasures": {
+  }
+
+}

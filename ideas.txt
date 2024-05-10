@@ -1,0 +1,12 @@
+Plane game:
+    Upgrades for different components
+    Classes for aircraft
+    Fuel will be used for moves
+    "Aim for components"
+
+    LOOP:
+        Go on sorties
+        Win battles, earn "Cred"
+        after win/loss, earn skill
+        upgrade components
+        repeat

@@ -1,0 +1,56 @@
+{
+  "player": {
+    "DefaultComponents":{
+      "Wings": 100,
+      "Fuselage": 200,
+      "Cockpit": 300,
+      "Electrical": 500,
+      "Tail": 100
+    }
+  },
+  "SU57": {
+    "DefaultComponents":{
+      "Wings": 100,
+      "Fuselage": 200,
+      "Cockpit": 300,
+      "Electrical": 500,
+      "Tail": 100
+    }
+  },
+  "F14": {
+    "DefaultComponents":{
+      "Wings": 100,
+      "Fuselage": 200,
+      "Cockpit": 300,
+      "Electrical": 500,
+      "Tail": 100
+    }
+  },
+  "F15": {
+    "DefaultComponents":{
+      "Wings": 100,
+      "Fuselage": 200,
+      "Cockpit": 300,
+      "Electrical": 500,
+      "Tail": 100
+    }
+  },
+  "F16": {
+    "DefaultComponents":{
+      "Wings": 100,
+      "Fuselage": 200,
+      "Cockpit": 300,
+      "Electrical": 500,
+      "Tail": 100
+    }
+  },
+  "F18": {
+    "DefaultComponents":{
+      "Wings": 100,
+      "Fuselage": 200,
+      "Cockpit": 300,
+      "Electrical": 500,
+      "Tail": 100
+    }
+  }
+}
